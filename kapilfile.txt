@@ -1,0 +1,1 @@
+To test if github scm integrates with jenkins server
